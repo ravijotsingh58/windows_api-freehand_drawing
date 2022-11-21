@@ -3,7 +3,7 @@
 Right Paddle is automated for now (You are free to modify this behavior)
 
 # Compilation
-###### Compiled with gcc comiler. following is the command used for compilation
+###### Compiled with gcc compiler. following is the command used for compilation
 ```gcc rect_processing.c -lgdi32 -lwinmm -o rect_processing.exe```<br/><br/><br/>
 
 
