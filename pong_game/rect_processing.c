@@ -423,7 +423,7 @@ void OnTimer(HWND hWnd) {
 
         SetCoords(&leftrect, &rightrect);
         autoMoveRect(hWnd, &rightrect);
-        autoMoveRect(hWnd, &leftrect);
+        //autoMoveRect(hWnd, &leftrect);
 
     }
     else {
